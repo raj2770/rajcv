@@ -1,0 +1,32 @@
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: blue;
+  border-width: 2px;
+  width: 50%;
+}
+
+body {
+  background-color: #feceab;
+  color: blue;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+}
+img {
+  background-color: green;
+}
+.raj{
+  background-color: green;
+}
+h3{
+  background-color: red;
+
+}
+.ta
+{
+  background-color: black;
+}
